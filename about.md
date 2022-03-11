@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8" />
@@ -25,17 +24,17 @@
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#intro">About</a></li> 
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#behavioral">Research</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#modeling">Recent & Upcoming</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#corpus">Publications</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#intro">intro</a></li> 
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#behavioral">behavioral</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#modeling">modeling</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#corpus">corpus</a></li>
                 </ul>
             </div>
         </nav>
         <!-- Page Content-->
         <div class="container-fluid p-0">
-            <!-- About-->
-            <section class="resume-section" id="about">
+            <!-- intro-->
+            <section class="resume-section" id="intro">
                 <div class="resume-section-content">
                     <h1 class="mb-0">
                         Emma
@@ -44,7 +43,6 @@
 
                     <div class="subheading mb-5">
                         Postdoctoral Fellow · Language Science · University of California-Irvine ·
-                         <a href="https://emmanguyenling.github.io/about">About Me</a> ·
                         <a href="/CV/ENguyen_CV_2021Oct27.pdf">CV</a> ·
                         <a href="mailto:emman@uci.edu">emman@uci.edu</a>
                     </div>
@@ -54,8 +52,8 @@
                 </div>
             </section>
             <hr class="m-0" />
-            <!-- Research Program-->
-            <section class="resume-section" id="research">
+            <!-- behavioral-->
+            <section class="resume-section" id="behavioral">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Research</h2>
                     <ul class="fa-ul mb-0">
@@ -102,8 +100,8 @@
                 </div>
             </section>
         </div>
-            <!-- Recent & Upcoming-->
-            <section class="resume-section" id="upcoming">
+            <!-- modeling-->
+            <section class="resume-section" id="modeling">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Recent & Upcoming</h2>
 
@@ -114,8 +112,8 @@
                 </div>
             </section>
             <hr class="m-0" />
-            <!-- Publications-->
-            <section class="resume-section" id="publications">
+            <!-- corpus-->
+            <section class="resume-section" id="corpus">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Publications</h2>
 
@@ -132,26 +130,6 @@
                     <div class="subheading mb-3">2020</div>
 
                     <p>Nguyen, E. (2020). Can “blick” be passivized? Depends on its meaning: A novel-verb study with English-speaking children. Talk at The 45th Annual Boston University Conference on Language Development (BUCLD 45). November 5-8, 2020 <a href="https://www.dropbox.com/s/br4ku83crzwyxry/Nguyen%20%282020%29_BUCLD%20Talk.mov?dl=0">[Pre-Recorded Video of Talk]</a><a href="https://www.dropbox.com/s/zee9u773zc3dofn/Nguyen%20%282020%29_BUCLD%20Slides.pdf?dl=0">[Slides]</a></p>
-
-                    <div class="subheading mb-3">2019</div>
-
-                    <p>Nguyen, E. (2019). The predictive power of lexical semantics on the passive behavior in young children. Poster at 44th Annual Boston University Conference on Language Development (BUCLD 44). Boston, MA. November 8-10, 2019. <a href="/pdfs/Nguyen(2019)_BUCLD_poster.pdf">[PDF-poster]</a></p>
-                    <p>Nguyen, E., & Pearl, L. (2019) Using developmental modeling to specify learning and representation of the passive in English children. In Proceedings of the 43rd Boston University Conference on Language Development (BUCLD 43). <a href="/pdfs/Nguyen_Pearl(2019)_BUCLD.pdf">[PDF-paper]</a></p>
-                    <p>Nguyen, E., & Sprouse, J. (2019). ERP satiation of whether-islands impacts scalp distribution, not amplitude. Talk at The 93nd Annual Meeting of the Linguistic Society of America. New York City, NY. January 3-6, 2019. <a href="/pdfs/Nguyen_Sprouse(2019)_LSA_poster.pdf">[PDF-poster]</a></p>
-
-                    <div class="subheading mb-3">2018</div>
-
-                    <p>Nguyen, E., & Pearl, L. (2018) Using developmental modeling to specify learning and representation of the passive in English children. Poster at the 42nd Boston University Conference on Language Development, Boston University, Boston. November 2-4, 2018. <a href="/pdfs/Nguyen_Pearl(2018)_BUCLD_poster.pdf">[PDF-poster]</a></p>
-                    <p>Nguyen, E. & Martinez Vera, G. (2018). A surprising comparison: a unified account of degree “surprisingly” with bare adjectives and comparatives. In The Proceedings of the North East Linguistic Society (NELS 48). <a href="/pdfs/Nguyen_Martinez Vera(2018)_NELS.pdf">[PDF-paper]</a></p>
-                    <p>Nguyen, E., & Snyder, W. (2018). It’s hard to extend: a unified account of Raising-Past-Experiencers and Passives in Child English. In Proceedings of the 42nd Boston University Conference on Language Development (BUCLD 42). <a href="/pdfs/Nguyen_Snyder(2018)_BUCLD.pdf">[PDF-paper]</a></p>
-                    <p>Nguyen, E., Sprouse, J. (2018). Exploring heterogeneous P600 satiation in an attempt to reveal N400s in semantic P600 sentences. Poster at The 31st Annual CUNY Sentence Processing Conference. University of California, Davis. <a href="/pdfs/Nguyen_Sprouse(2018)_CUNY_poster.pdf">[PDF-poster]</a></p>
-                    <p>Nguyen, E. & Pearl, L. (2018). Do you really mean it? Linking lexical semantic profiles and the age of acquisition for the English passive. In The Proceedings of the West Coast Conference on Formal Linguistics (WCCFL 35).  <a href="/pdfs/Nguyen_Pearl(2018)_WCCFL.pdf">[PDF-paper]</a></p>
-
-                    <div class="subheading mb-3">2017</div>
-                    <p>Nguyen, E. (2017). Lexical semantic profiles and the age of acquisition for the English passive. Talk presented at the Workshop on Passives. University of Geneva. January 10, 2017.</p>
-                    <p>Nguyen, E., Sprouse, J. (2017). The (non-) satiation of P600/SPS effects to distinct grammatical violations. Poster at the 9th Meeting of the Society for the Neurobiology of Language, Baltimore, Maryland. <a href="/pdfs/Nguyen_Sprouse(2017)_SNL_poster.pdf">[PDF-poster]</a></p>
-                    <p>Nguyen, E., & Snyder, W. (2017). The (Non)- Effects of Pragmatics on Children’s Passives. In The Proceedings of the 41st Annual Boston University Conference on Language Development. <a href="/pdfs/Nguyen_Snyder(2017)_BUCLD.pdf">[PDF-paper]</a></p>
-                    <p>Nguyen, E., Lillo-Martin, D., & Snyder, W. (2017). Actionality speaks louder than felicity: children’s comprehension of long passives. In Language Acquisition at the Interfaces: Proceedings of GALA 2015.  <a href="/pdfs/Nguyen_et al(2017)_GALA.pdf">[PDF-paper]</a></p>
 
                 </div>
             </section>
